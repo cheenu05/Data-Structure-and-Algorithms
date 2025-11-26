@@ -1,0 +1,73 @@
+## All important notes for Array .....
+## Update Content On Regular Basic:
+
+----Array Data Structure----
+
+. Types of array 
+. How Array located in memory
+. Operation {
+    Access,
+    Updating,
+    Insertion,
+    Delete,
+    Forward & Backward (traversal)
+}
+. MultiDimensional Array {
+    Access,
+    Updating,
+    Insertion,
+    Delete,
+    Forward & Backward (traversal)
+}
+. Manipulation {
+    Reverse,
+    Rotate,
+    Shuffel,
+    Randomization
+}
+
+. Pattern{
+    Two-Pointer,
+    Sliding-Window,
+    SubArray
+}
+
+. Searching / Sorting 
+
+
+----Algorithms which is perform with Array----
+
+# I have add an Image in src folder
+
+. Searching {
+    Linear,
+    Binary
+}
+. Sorting{
+    Bubble, 
+    Slection,
+    Insertion,
+    Merge,
+    Quick,
+    Heap,
+    Transpose
+}
+
+. Traversal {
+    Forward & Backward (traversal),
+    Rotaion,
+    Reverse,
+    Map,
+    Filter,
+    Reduce
+}
+
+
+. Other algo{
+
+    Prefix,
+    Suffix,
+    Kadane's Algorithm,
+    Diagnoal Traversal,
+    Two-pointer
+}
