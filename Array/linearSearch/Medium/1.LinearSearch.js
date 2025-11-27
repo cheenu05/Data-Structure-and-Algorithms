@@ -4,14 +4,14 @@
 // Output: 3 times
 
 function Appear(arr , target) {
-  let elem = [];
+  let count = "" ;
 
   for(let i = 0 ; i < arr.length ; i++){
     if(arr[i] === target){
-        elem.push(i)
+        count++
     }
   }
-    return `${elem.length} times` 
+    return `${count} times` 
 }
 
 console.log(Appear([20,22,20,23,20,24,20] , 20))
