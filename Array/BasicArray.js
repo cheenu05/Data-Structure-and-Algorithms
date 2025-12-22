@@ -3,15 +3,14 @@
 // C:Creat , R:Read , U:Update , D:Delete
 
 // Creating an array 
-let arr = [20,40,30,50,60]
-
+let arr = [20,40,30,50,60] 
 // Read an Array 
 console.log("find the index element" ,arr[3])  // It provide Ans : 50  Because of there Index value  -- Array Start from [0,1,2,3,4 ....n-1]
 
 
 //  Update an Array 
 arr[5]=80
-console.log("'add the element", arr)  // output : [20,40,30,50,60]
+console.log("'add the element", arr)  // output : [20,40,30,50,60,80]
 
 // with the help of some Methods : Methods are preBuild things which help the user to get there valuable Ans 
 
@@ -35,4 +34,4 @@ arr.shift() // remome the first element of an array
 console.log("shift method",arr)
 
 arr.splice(2 ,1) // remove the index value here i put 2 index value element  
-console.log(arr)
+console.log(arr);
